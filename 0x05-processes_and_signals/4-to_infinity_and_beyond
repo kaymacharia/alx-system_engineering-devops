@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#Outputs the phrase "infinity and beyond" continuously until stopped, but humorously notes that it's not truly eternal if it can be terminated.
+
+while true;
+do
+	echo "To infinity and beyond";
+	sleep 2
+done
