@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#rejoin server without typing out the pasword
+SendEnv LANG LC_*
+HashKnownHosts yes
+GSSAPIAuthentication yes
+GSSAPIDelegateCredentials no
