@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #   at the root with a curl GET request.
 
 sudo apt-get -y update
