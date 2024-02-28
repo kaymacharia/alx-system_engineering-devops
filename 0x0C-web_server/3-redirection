@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # The redirection must be a “301 Moved Permanently”
 
 sudo apt-get -y install nginx
