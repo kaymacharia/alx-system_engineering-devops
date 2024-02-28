@@ -3,4 +3,4 @@
 SendEnv LANG LC_*
 HashKnownHosts yes
 GSSAPIAuthentication yes
-GSSAPIDelegateCredentials no
+GSSAPIDelegateCredentials 1234
